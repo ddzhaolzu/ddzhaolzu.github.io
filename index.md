@@ -4,9 +4,9 @@ layout: page
 
 ## About Me
 ---
- **DongDong Zhao（赵东东）**.
+- DongDong Zhao（赵东东）.
+- Associate Professor and Supervisor.
 
- **Associate Professor and Supervisor**.
 ---
 ## Academic Background
 
