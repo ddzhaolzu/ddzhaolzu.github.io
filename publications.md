@@ -4,43 +4,27 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 3rd August 2024
+> Update: 30rd August 2024
 >
-> (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+## Representative Papers
 
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
+- Xingwen Zhou, Zongsheng Geng, **Dongdong Zhao**, Li Xu, Shi Yan. State-space model realization for non-commensurate fractional-order systems based on Gleason problem[J]. Journal of the Franklin Institute. 2023, 360(8):14261-14278.
+- **Dongdong Zhao**, Qinglian Yang, Xingwen Zhou, Hongli Li, Shi Yan*; A Local Spatial-Temporal Synchronous Network to Dynamic Gesture Recognition[J]. IEEE Transactions on Computational Social Systems，2023, 10(5): 2226-2233.
+- Xingwen Zhou, **Dongdong Zhao**, Zongsheng Geng, Li Xu Shi , Yan. FPGA Implementation of Non-Commensurate Fractional-Order State-Space Models[J]. IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, 70(0):3639-3652.
+- **Dongdong Zhao**, Lei Yan, Xingwen Zhou, Zongshegn Geng, Shi Yan. Robust State Feedback Design for Uncertain Systems Based on Luenberger Observer [J]. Journal of Shanghai Jiao Tong University, 2024, 58(4): 492-497.
+- **Dongdong Zhao**, Kaige Huo, Li Xu, Krzysztof Galkowski, Bartlomiej Sulikowski, Shi Yan. Admissible Transformation Approach to Roesser State-Space Model Realization of Singular Multidimensional Systems[J]. IET Control Theory & Applications, 2023,17:1295–1310.
+- **Dongdong Zhao**, Yang Hu, Weiguo Sun, Xingwen Zhou, Li Xu, Shi Yan*; A digraph approach to the state-space model realization of MIMO non-commensurate fractional order systems[J]. Journal of the Franklin Institute, 2022, 359(10): 5014-5035.
+- **Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; Derivation and reduction of the singular Fornasini-Marchesini state-space model for a class of multidimensional systems[J]. IET Control Theory & Applications, 2020, 14(4): 634-645.
+- S. Yan, **Zhao Dongdong***, H. Wang, S. Matsushita, L. Xu. A novel constructive procedure to low-order Fornasini–Marchesini model realization[J]. Journal of the Franklin institute. 357(3), pp. 1764-1789, 2020.
+- **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for Roesser state-space models of multidimensional systems[J]. Systems & Control Letters, 2019, 134: 0-UNSP 104559.
+- **Dongdong Zhao**; S. Yan; S. Matsushita*; L. Xu; An approach to multidimensional Fornasini–Marchesini state-space model realization w.r.t. columns of transfer matrices[J]. Systems & Control Letters, 2019, 123:116-123.
+- **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models[J]. International Journal of Systems Science, 2019, 50:6-74.
 
   <br>
 
 
 ---
 
-## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
-## Manuscript
-
-TBA.
-
-<br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
