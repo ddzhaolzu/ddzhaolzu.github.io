@@ -30,7 +30,6 @@ title: Publications
 
 [9] **Dongdong Zhao**, Yang Hu, Weiguo Sun, Xingwen Zhou, Li Xu, Shi Yan*; A digraph approach to the state-space model realization of MIMO non-commensurate fractional order systems[J]. Journal of the Franklin Institute, 2022, 359(10): 5014-5035.
 
-  
 [8] **Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; Derivation and reduction of the singular Fornasini-Marchesini state-space model for a class of multidimensional systems[J]. IET Control Theory & Applications, 2020, 14(4): 634-645.
 
 [7] S. Yan, **Zhao Dongdong***, H. Wang, S. Matsushita, L. Xu. A novel constructive procedure to low-order Fornasini–Marchesini model realization[J]. Journal of the Franklin institute. 357(3), pp. 1764-1789, 2020.
@@ -39,9 +38,9 @@ title: Publications
 
 [5] **Dongdong Zhao**; S. Yan; S. Matsushita*; L. Xu; An approach to multidimensional Fornasini–Marchesini state-space model realization w.r.t. columns of transfer matrices[J]. Systems & Control Letters, 2019, 123:116-123.
 
- [4] **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models[J]. International Journal of Systems Science, 2019, 50:6-74.
+[4] **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models[J]. International Journal of Systems Science, 2019, 50:6-74.
 
- [3] **Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane[J]. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
+[3] **Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane[J]. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
 
 [2] **Dongdong Zhao**; S. Yan; L. Xu*; Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems[J]. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
 
