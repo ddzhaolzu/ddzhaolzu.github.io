@@ -18,12 +18,6 @@ layout: page
 
 ---
 
-## Website
----
-
-- [yanshi.lzu.edu.cn](http://yanshi.lzu.edu.cn)
-  
----
 
 ## Academic Background
 
