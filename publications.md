@@ -10,7 +10,13 @@ title: Publications
 
 ## Journal Papers
 
- [15] **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
+[18] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan*, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 1-14, doi: 10.1109/TAC.2024.3378769
+
+[17] **Zhao Dongdong**, Boyu Li, Fuxiang Lu, Jinhua She, Shi Yan*. Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3390717.
+
+[16] Dongdong Zhao, Xiaodi Yang ,Yichang Li , Li Xu, Jinhua She, Shi Yan*. A Kalman-Koopman LQR Control Approach to Robotic Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3379674.
+
+[15] **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
 
 [14] Xingwen Zhou, Zongsheng Geng, **Dongdong Zhao**, Li Xu, Shi Yan. State-space model realization for non-commensurate fractional-order systems based on Gleason problem[J]. Journal of the Franklin Institute. 2023, 360(8):14261-14278.
 
