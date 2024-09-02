@@ -2,13 +2,12 @@
 layout: page
 ---
 
-# About Me
-
-
+## About Me
+---
  **DongDong Zhao（赵东东）**.
 
  **Associate Professor and Supervisor**.
-
+---
 ## Academic Background
 
 - September 2008 to July 2012, Zhengzhou University, Automation (Bachelor)
