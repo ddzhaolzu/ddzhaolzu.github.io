@@ -10,7 +10,7 @@ title: Publications
 
 ## Conference Paper
 
-- **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
+- [1] **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
 -  Xingwen Zhou, Zongsheng Geng, **Dongdong Zhao**, Li Xu, Shi Yan. State-space model realization for non-commensurate fractional-order systems based on Gleason problem[J]. Journal of the Franklin Institute. 2023, 360(8):14261-14278.
 -  **Dongdong Zhao**, Qinglian Yang, Xingwen Zhou, Hongli Li, Shi Yan*; A Local Spatial-Temporal Synchronous Network to Dynamic Gesture Recognition[J]. IEEE Transactions on Computational Social Systems，2023, 10(5): 2226-2233.
 -  Xingwen Zhou, **Dongdong Zhao**, Zongsheng Geng, Li Xu Shi , Yan. FPGA Implementation of Non-Commensurate Fractional-Order State-Space Models[J]. IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, 70(0):3639-3652.
