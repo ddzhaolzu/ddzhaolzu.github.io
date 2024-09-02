@@ -2,9 +2,16 @@
 layout: page
 ---
 
-## About Me
+# About Me
 ---
 - DongDong Zhao（赵东东）.
+- Associate Professor and Supervisor.
+
+---
+
+## Contact information
+---
+- ##Email##
 - Associate Professor and Supervisor.
 
 ---
