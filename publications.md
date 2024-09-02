@@ -10,7 +10,7 @@ title: Publications
 
 ## Conference Paper
 
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
 
   <br>
 
