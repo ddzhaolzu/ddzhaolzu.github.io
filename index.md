@@ -15,7 +15,6 @@ layout: page
 ---
 
 - **Email**:ddzhao@lzu.edu.cn
-- **Tel**:13659315693  
 
 ---
 
