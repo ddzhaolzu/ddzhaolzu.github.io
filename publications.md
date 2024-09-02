@@ -21,9 +21,9 @@ title: Publications
 - S. Yan, **Zhao Dongdong***, H. Wang, S. Matsushita, L. Xu. A novel constructive procedure to low-order Fornasini–Marchesini model realization[J]. Journal of the Franklin institute. 357(3), pp. 1764-1789, 2020.
 - **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for Roesser state-space models of multidimensional systems[J]. Systems & Control Letters, 2019, 134: 0-UNSP 104559.
 - **Dongdong Zhao**; S. Yan; S. Matsushita*; L. Xu; An approach to multidimensional Fornasini–Marchesini state-space model realization w.r.t. columns of transfer matrices[J]. Systems & Control Letters, 2019, 123:116-123.
-- [4]**Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models[J]. International Journal of Systems Science, 2019, 50:6-74.
-- [3]**Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane[J]. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
-- [2]**Dongdong Zhao**; S. Yan; L. Xu*; Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems[J]. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
+- [4] **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models[J]. International Journal of Systems Science, 2019, 50:6-74.
+- [3] **Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane[J]. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
+- [2] **Dongdong Zhao**; S. Yan; L. Xu*; Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems[J]. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
 
 - [1] S. Yan; **Dongdong Zhao**; L. Xu*; Q. Li; A novel elementary operation approach with Jordan transformation to order reduction for Roesser state-space model[J]. Multidimensional Systems and Signal Processing, 2017, 28(4): 1417-1442.
   <br>
