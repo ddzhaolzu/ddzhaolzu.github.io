@@ -49,12 +49,19 @@ title: Publications
 
 ---
 ## Conference Papers
+- [7] 	Xingwen Zhou, Zongsheng Geng, Mingming Tang, Dongdong Zhao, Shi Yan. A Novel Procedure for Low-order Realization of Non-Commensurate Fractional Order System. ANZCC 2024: 109-114.
 
+- [6] Dongdong Zhao, Yichang Li, Xiaodi Yang, Shi Yan. Policy Learning with Deep Koopman Operator Networks. ICARM 2023: 1156-1161.
+   
+- [5] Bartlomiej Sulikowski, Krzysztof Galkowski, Dongdong Zhao, Li Xu.  Stability investigation and control synthesis of RLC ladder circuits modeled as uncertain spatially interconnected systems. ICARCV 2022: 380-385.
+  
+- [4] Kosuke Sasaki, Kaige Huo, Dongdong Zhao, Shi Yan, Li Xu. A Common Invariant Subspace Approach to Exact Order Reduction for Multidimensional Roesser State-Space Models. ISCAS 2020: 1-5
+  
+- [3] Dongdong Zhao, Shi Yan, Shinya Matsushita, Li Xu. Exact Order Reduction for the Fornasini-Marchesini State-Space Model Based on Common Invariant Subspace. ISCAS 2019: 1-4.
 
+- [2] Dongdong Zhao, Shi Yan, Shinya Matsushita, Li Xu. A New Order Reduction Approach for Roesser State-Space Model Based on Multiple Eigenvalues. DSP 2018: 1-5.
 
-[2] Dongdong Zhao, Shi Yan, Shinya Matsushita, Li Xu. A New Order Reduction Approach for Roesser State-Space Model Based on Multiple Eigenvalues [C]. DSP 2018: 1-5.
-
-[1] Dongdong Zhao, Shi Yan, Shin-ya Matsushita, Li Xu. Order reduction for roesser state-space model based on a certain system of equations [C].  nDS 2017: 1-5.
+- [1] Dongdong Zhao, Shi Yan, Shin-ya Matsushita, Li Xu. Order reduction for roesser state-space model based on a certain system of equations.  nDS 2017: 1-5.
 
 <br>
 ---
