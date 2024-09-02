@@ -23,7 +23,8 @@ title: Publications
 - **Dongdong Zhao**; S. Yan; S. Matsushita*; L. Xu; An approach to multidimensional Fornasini–Marchesini state-space model realization w.r.t. columns of transfer matrices[J]. Systems & Control Letters, 2019, 123:116-123.
 - [4] **Dongdong Zhao***; S. Yan; S. Matsushita; L. Xu; Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models[J]. International Journal of Systems Science, 2019, 50:6-74.
 - [3] **Dongdong Zhao***; K. Galkowski; B. Sulikowski; L. Xu; 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane[J]. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
-- [2] **Dongdong Zhao**; S. Yan; L. Xu*; Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems[J]. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
+
+ [2] **Dongdong Zhao**; S. Yan; L. Xu*; Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems[J]. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
 
  [1] S. Yan; **Dongdong Zhao**; L. Xu*; Q. Li; A novel elementary operation approach with Jordan transformation to order reduction for Roesser state-space model[J]. Multidimensional Systems and Signal Processing, 2017, 28(4): 1417-1442.
   <br>
