@@ -4,15 +4,17 @@ layout: page
 
 # About Me
 ---
-- DongDong Zhao（赵东东）.
-- Associate Professor and Supervisor.
+
+- **Name**:DongDong Zhao（赵东东）.
+- **Professional title**:Associate Professor and Supervisor.
+- **Organization**:Lanzhou University
 
 ---
 
 ## Contact information
 ---
-- ##Email##
-- Associate Professor and Supervisor.
+- **Email**:ddzhao@lzu.edu.cn
+- **Tel**:13659315693  
 
 ---
 ## Academic Background
