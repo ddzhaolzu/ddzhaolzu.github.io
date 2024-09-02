@@ -28,3 +28,14 @@ title: Publications
   <br>
 
 ---
+
+## Patent
+
+- **Zhao Dongdong**; Yan Shi; Li Hongli; Zhou Xingwen; Li Yichang; Dynamic gesture recognition method, device, equipment and storage medium, 2022-05-25, China, CN202210572857.5
+-  **Zhao Dongdong**; Yan Shi; Yang Xiaodi; Zhou Xingwen; Li Hongli; A method, system, device and readable storage medium for manipulator motion control, 2022-05-23, China, CN202210563749.1
+-  Yan Shi; **Zhao Dongdong**; Sun Wansheng; Zhou Xingwen; Li Yichang; A Manipulator Control Method and System, Electronic Equipment, Storage Medium, 2022-05-12, China, ZL202210514205.6
+
+  <br>
+
+---
+
