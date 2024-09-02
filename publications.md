@@ -10,10 +10,10 @@ title: Publications
 
 ## Journal Papers
 
-- [19] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan*, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 1-14, doi: 10.1109/TAC.2024.3378769
-- [18] **Zhao Dongdong**, Boyu Li, Fuxiang Lu, Jinhua She, Shi Yan*. Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3390717.
-- [17] Dongdong Zhao, Xiaodi Yang, Yichang Li, Li Xu, Jinhua She, Shi Yan*. A Kalman-Koopman LQR Control Approach to Robotic Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3379674.
-- [16] **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, doi:10.1109/TCSVT.2023.3295084.
+- [19] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan*, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 1-14, doi: 10.1109/TAC.2024.3378769. https://ieeexplore.ieee.org/abstract/document/10475515.
+- [18] **Zhao Dongdong**, Boyu Li, Fuxiang Lu, Jinhua She, Shi Yan*. Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3390717. https://ieeexplore.ieee.org/abstract/document/10527398.
+- [17] Dongdong Zhao, Xiaodi Yang, Yichang Li, Li Xu, Jinhua She, Shi Yan*. A Kalman-Koopman LQR Control Approach to Robotic Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3379674. https://ieeexplore.ieee.org/abstract/document/10505835/.
+- [16] **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(3):1403-1412. https://ieeexplore.ieee.org/abstract/document/10182358. 
 - [15] Zongsheng Geng  (耿宗盛), Dongdong Zhao  (赵东东), Xingwen Zhou  (周兴文), Lei Yan  (闫 磊), Shi Yan(阎石). Leader-Following Consensus of Multi-Agent Systems via Fully Distributed Event-Based Control. J. Shanghai Jiaotong Univ. (Sci.) 29, 640–645 (2024). https://doi.org/10.1007/s12204-024-2718-z
 - [14] Xingwen Zhou, Zongsheng Geng, **Dongdong Zhao**, Li Xu, Shi Yan. State-space model realization for non-commensurate fractional-order systems based on Gleason problem[J]. Journal of the Franklin Institute. 2023, 360(8):14261-14278.
 - [13] **Dongdong Zhao**, Qinglian Yang, Xingwen Zhou, Hongli Li, Shi Yan*; A Local Spatial-Temporal Synchronous Network to Dynamic Gesture Recognition[J]. IEEE Transactions on Computational Social Systems，2023, 10(5): 2226-2233.
