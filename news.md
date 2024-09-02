@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teams/index.html
+permalink: /news/index.html
 title: Teams
 ---
 
