@@ -52,6 +52,12 @@ title: Publications
 ## Conference Papers
 
 
+
+[2] Dongdong Zhao, Shi Yan, Shinya Matsushita, Li Xu. A New Order Reduction Approach for Roesser State-Space Model Based on Multiple Eigenvalues [C]. DSP 2018: 1-5.
+
+[1] Dongdong Zhao, Shi Yan, Shin-ya Matsushita, Li Xu. Order reduction for roesser state-space model based on a certain system of equations [C].  nDS 2017: 1-5.
+
+<br>
 ---
 ## Patent
 
