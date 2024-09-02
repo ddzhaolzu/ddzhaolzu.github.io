@@ -5,7 +5,7 @@ layout: page
 # About Me
 ---
 
-- **Name**:DongDong Zhao（赵东东）.
+- **Name**:Zhao Dongdong（赵东东）.
 - **Professional title**:Associate Professor and Supervisor.
 - **Organization**:Lanzhou University
 
