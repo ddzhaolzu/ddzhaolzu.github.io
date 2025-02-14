@@ -10,7 +10,8 @@ title: Publications
 
 ## Journal Papers
 
-- [19] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan*, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 1-14, doi: 10.1109/TAC.2024.3378769. https://ieeexplore.ieee.org/abstract/document/10475515.
+- [19] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 69(10): 6821-6835. https://ieeexplore.ieee.org/abstract/document/10475515.
+  
 - [18] **Zhao Dongdong**, Boyu Li, Fuxiang Lu, Jinhua She, Shi Yan*. Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3390717. https://ieeexplore.ieee.org/abstract/document/10527398.
 - [17] Dongdong Zhao, Xiaodi Yang, Yichang Li, Li Xu, Jinhua She, Shi Yan*. A Kalman-Koopman LQR Control Approach to Robotic Systems[J]. IEEE Transactions on Industrial Electronics. 2024, 1-10. doi: 10.1109/TIE.2024.3379674. https://ieeexplore.ieee.org/abstract/document/10505835/.
 - [16] **Zhao Dongdong**, Li Hongli, Yan Shi. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(3):1403-1412. https://ieeexplore.ieee.org/abstract/document/10182358. 
