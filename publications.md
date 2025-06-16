@@ -9,7 +9,7 @@ title: Publications
 
 
 ## Journal Papers
-
+- [20]  **Dongdong Zhao**,  Min Feng, Wenjing Xian, Jiahu Qin, Jinhua She, Shi Yan. Linear Quadratic Control of Unknown Nonlinear Systems Using Model-Free Reinforcement Learning. *IEEE Transactions on Industrial Electronics*. 2025, Accept.
 - [19] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan*, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 69(10): 6821-6835. https://ieeexplore.ieee.org/abstract/document/10475515.
   
 - [18] **Zhao Dongdong**, Boyu Li, Fuxiang Lu, Jinhua She, Shi Yan*. Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems. IEEE Transactions on Industrial Electronics.  2024,  71(12):16077-16086. https://ieeexplore.ieee.org/abstract/document/10527398.
