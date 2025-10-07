@@ -9,10 +9,13 @@ title: Publications
 
 
 ## Journal Papers
+- [23]  **Dongdong Zhao**,  Xiuyun Zheng, Qiaoqiao Li, Fuxiang, Lu Shi Yan. Multi-Stream Longtail Graph Convolutional Network for Human Action Recognition. *IEEE Transactions on Consumer Electronics*. 2025, DOI:10.1109/TCE.2025.3619127.
 
-- [22]  **Dongdong Zhao**,  Mingjie Li, Jinhua She, Shi Yan. Data-Driven Linear Parameter-Varying Model Predictive Control for Unknown Nonlinear Systems. *IEEE Transactions on Industrial Electronics*. 2025, Accept.
 
-- [21]  **Dongdong Zhao**,  Wei Li, Jinhua She, Li Xu, Shi Yan. Kolmogorovarnold Transformer Koopman Modeling Approach to Unknown Nonlinear Robotic Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3603060, 2025.
+- [22]  **Dongdong Zhao**,  Mingjie Li, Jinhua She, Shi Yan. Data-Driven Linear Parameter-Varying Model Predictive Control for Unknown Nonlinear Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3608048
+.
+
+- [21]  **Dongdong Zhao**,  Wei Li, Jinhua She, Li Xu, Shi Yan. Kolmogorovarnold Transformer Koopman Modeling Approach to Unknown Nonlinear Robotic Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3603060. https://ieeexplore.ieee.org/document/11185236
 
 - [20]  **Dongdong Zhao**,  Min Feng, Wenjing Xian, Jiahu Qin, Jinhua She, Shi Yan. Linear Quadratic Control of Unknown Nonlinear Systems Using Model-Free Reinforcement Learning. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3581264, 2025.
 
