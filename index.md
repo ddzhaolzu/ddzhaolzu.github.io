@@ -41,7 +41,13 @@ layout: page
 - Multidimensional system theory
 - Signal processing
 
----
+## Journal/Conference Appointments
+
+2025 - Present Young Editorial Board Member of  IET Cyber-Systems and Robotics
+2024 - Present Young Editorial Board Member of  Metaverse
+2024 – Present Member of the program committee on IEEE International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE)  
+2023 – present Member of the program committee on IEEE International Conference on Progress in Informatics and Computing
+
 
 ## Teaching course
 
