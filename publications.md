@@ -84,15 +84,6 @@ title: Publications
 
   <br>
 
----
-## Journal/Conference Appointments
-
-- 2023 – present member of the program committee on IEEE International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE)  
-- 2023 – present member of the program committee on IEEE International Conference on Progress in Informatics and Computing
-
-  <br>
-
----
 
 ## Reviewers
 
