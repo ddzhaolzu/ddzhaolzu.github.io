@@ -9,53 +9,55 @@ title: Publications
 
 
 ## Journal Papers
-- [23]  **Dongdong Zhao**,  Xiuyun Zheng, Qiaoqiao Li, Fuxiang, Lu Shi Yan. Multi-Stream Longtail Graph Convolutional Network for Human Action Recognition. *IEEE Transactions on Consumer Electronics*. 2025, DOI:10.1109/TCE.2025.3619127.
+- [24]  **Zhao Dongdong**, Yan Lei, Yu Kang, Yun-Bo Zhao, Shi Yan*, Constrained Common Invariant Subspace to Descriptor Multi-Affine Representation of Rational Parameter Systems. *IEEE Transactions on Automatic Control*. 2025, DOI:10.1109/TAC.2025.3629506.
+
+- [23] **Zhao Dongdong**, Zheng Xiuyun, Li Qiaoqiao, Lu Fuxiang, Yan Shi*. Multi-Stream Longtail Graph Convolutional Network for Human Action Recognition. *IEEE Transactions on Consumer Electronics*. 2025, DOI:10.1109/TCE.2025.3619127.
 
 
-- [22]  **Dongdong Zhao**,  Mingjie Li, Jinhua She, Shi Yan. Data-Driven Linear Parameter-Varying Model Predictive Control for Unknown Nonlinear Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3608048
+- [22]  **Zhao Dongdong**,  Li Mingjie, She Jinhua, Yan Shi*. Data-Driven Linear Parameter-Varying Model Predictive Control for Unknown Nonlinear Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3608048
 .
 
-- [21]  **Dongdong Zhao**,  Wei Li, Jinhua She, Li Xu, Shi Yan. Kolmogorovarnold Transformer Koopman Modeling Approach to Unknown Nonlinear Robotic Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3603060. https://ieeexplore.ieee.org/document/11185236
+- [21]  **Zhao Dongdong**,  Li Wei, She Jinhua, Xu Li, Yan Shi*. Kolmogorov-Arnold Transformer Koopman Modeling Approach to Unknown Nonlinear Robotic Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3603060. https://ieeexplore.ieee.org/document/11185236
 
-- [20]  **Dongdong Zhao**,  Min Feng, Wenjing Xian, Jiahu Qin, Jinhua She, Shi Yan. Linear Quadratic Control of Unknown Nonlinear Systems Using Model-Free Reinforcement Learning. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3581264, 2025.
+- [20]  **Zhao Dongdong**,  Feng Min, Xian Wenjing, Qin Jiahu, She Jinhua, Yan Shi*.  Linear Quadratic Control of Unknown Nonlinear Systems Using Model-Free Reinforcement Learning. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3581264, 2025.
 
-- [19] **Zhao Dongdong**, Yu Kang, Yun-Bo Zhao, Li Xu, Shi Yan*, Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 69(10): 6821-6835. https://ieeexplore.ieee.org/abstract/document/10475515.
+- [19] **Zhao Dongdong**, Kang Yu, Zhao Yun-Bo, Xu Li, Yan Shi*,  Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 69(10): 6821-6835. https://ieeexplore.ieee.org/abstract/document/10475515.
   
-- [18] **Zhao Dongdong**, Boyu Li, Fuxiang Lu, Jinhua She, Shi Yan*. Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems. IEEE Transactions on Industrial Electronics.  2024,  71(12):16077-16086. https://ieeexplore.ieee.org/abstract/document/10527398.
+- [18] **Zhao Dongdong**, Li Boyu, Lu Fuxiang, She Jinhua, Yan Shi*.  Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems. IEEE Transactions on Industrial Electronics.  2024,  71(12):16077-16086. https://ieeexplore.ieee.org/abstract/document/10527398.
   
-- [17] Dongdong Zhao, Xiaodi Yang, Yichang Li, Li Xu, Jinhua She, Shi Yan*. A Kalman-Koopman LQR Control Approach to Robotic Systems. IEEE Transactions on Industrial Electronics. 2024, 71(12):16047 – 16056. https://ieeexplore.ieee.org/abstract/document/10505835/.
+- [17] Dongdong Zhao, Yang Xiaodi, Li Yichang, Xu Li, She Jinhua, Yan Shi*.  A Kalman-Koopman LQR Control Approach to Robotic Systems. IEEE Transactions on Industrial Electronics. 2024, 71(12):16047 – 16056. https://ieeexplore.ieee.org/abstract/document/10505835/.
   
 - [16] **Zhao Dongdong**, Li Hongli, Yan Shi*. Spatial-Temporal Synchronous Transformer for Skeleton-Based Hand Gesture Recognition. IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(3):1403-1412. https://ieeexplore.ieee.org/abstract/document/10182358.
   
-- [15] Zongsheng Geng  (耿宗盛), **Dongdong Zhao  (赵东东)**, Xingwen Zhou  (周兴文), Lei Yan  (闫 磊), Shi Yan(阎石)*. Leader-Following Consensus of Multi-Agent Systems via Fully Distributed Event-Based Control. J. Shanghai Jiaotong Univ. (Sci.) 29, 640–645 (2024). https://doi.org/10.1007/s12204-024-2718-z
+- [15] Geng Zongsheng  (耿宗盛), **Zhao Dongdong  (赵东东)**,  Zhou Xingwen (周兴文),  Yan Lei (闫 磊), Yan  Shi(阎石)*. Leader-Following Consensus of Multi-Agent Systems via Fully Distributed Event-Based Control. J. Shanghai Jiaotong Univ. (Sci.) 29, 640–645 (2024). https://doi.org/10.1007/s12204-024-2718-z
 
-- [14] Xingwen Zhou, Zongsheng Geng, **Dongdong Zhao**, Li Xu, Shi Yan*. State-space model realization for non-commensurate fractional-order systems based on Gleason problem. Journal of the Franklin Institute. 2023, 360(8):14261-14278.
+- [14] Zhou Xingwen,  Geng Zongsheng, **Zhao Dongdong**, Xu Li, Yan Shi*. State-space model realization for non-commensurate fractional-order systems based on Gleason problem. Journal of the Franklin Institute. 2023, 360(8):14261-14278.
   
 - [13] **Dongdong Zhao**, Qinglian Yang, Xingwen Zhou, Hongli Li, Shi Yan*; A Local Spatial-Temporal Synchronous Network to Dynamic Gesture Recognition. IEEE Transactions on Computational Social Systems，2023, 10(5): 2226-2233.
   
 - [12] xingwen Zhou, **Dongdong Zhao**, Zongsheng Geng, Li Xu, Shi Yan*. FPGA Implementation of Non-Commensurate Fractional-Order State-Space Models. IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, 70(0):3639-3652.
   
-- [11] **Dongdong Zhao**, Lei Yan, Xingwen Zhou, Zongshegn Geng, Shi Yan*. Robust State Feedback Design for Uncertain Systems Based on Luenberger Observer. Journal of Shanghai Jiao Tong University, 2024, 58(4): 492-497.
+- [11] **Zhao Dongdong**, Yan Lei, Zhou Xingwen, Geng Zongshegn, Yan Shi*. Robust State Feedback Design for Uncertain Systems Based on Luenberger Observer. Journal of Shanghai Jiao Tong University, 2024, 58(4): 492-497.
   
-- [10] **Dongdong Zhao**, Kaige Huo, Li Xu, Krzysztof Galkowski, Bartlomiej Sulikowski, Shi Yan*. Admissible Transformation Approach to Roesser State-Space Model Realization of Singular Multidimensional Systems. IET Control Theory & Applications, 2023,17:1295–1310.
+- [10] **Zhao Dongdong**, Huo Kaige, Xu  Li, Galkowski  Krzysztof, Sulikowski Bartlomiej, Yan  Shi*. Admissible Transformation Approach to Roesser State-Space Model Realization of Singular Multidimensional Systems. IET Control Theory & Applications, 2023,17:1295–1310.
   
-- [9] **Dongdong Zhao**, Yang Hu, Weiguo Sun, Xingwen Zhou, Li Xu, Shi Yan*. A digraph approach to the state-space model realization of MIMO non-commensurate fractional order systems. Journal of the Franklin Institute, 2022, 359(10): 5014-5035.
+- [9] **Zhao Dongdong**, Hu  Yang, Sun Weiguo, Zhou Xingwen, Xu Li, Yan Shi*. A digraph approach to the state-space model realization of MIMO non-commensurate fractional order systems. Journal of the Franklin Institute, 2022, 359(10): 5014-5035.
   
-- [8] **Dongdong Zhao** *,  Krzysztof Galkowski, Bartlomiej Sulikow Li Xu. Derivation and reduction of the singular Fornasini-Marchesini state-space model for a class of multidimensional systems. IET Control Theory & Applications, 2020, 14(4): 634-645.
+- [8] **Zhao Dongdong** *,  Galkowski Krzysztof, Sulikow Bartlomiej, Xu Li. Derivation and reduction of the singular Fornasini-Marchesini state-space model for a class of multidimensional systems. IET Control Theory & Applications, 2020, 14(4): 634-645.
   
-- [7] Shi Yan, **Dongdong Zhao** *, Hai Wang, Shinya Matsushita, Li Xu. A novel constructive procedure to low-order Fornasini–Marchesini model realization. Journal of the Franklin institute. 357(3), pp. 1764-1789, 2020.
+- [7] Yan Shi, **Zhao Dongdong** *, Wang Hai, Matsushita Shinya, Xu Li. A novel constructive procedure to low-order Fornasini–Marchesini model realization. Journal of the Franklin institute. 357(3), pp. 1764-1789, 2020.
   
 - [6] **Dongdong Zhao** *, Shi Yan, Shinya Matsushita, Li Xu. Common eigenvector approach to exact order reduction for Roesser state-space models of multidimensional systems. Systems & Control Letters, 2019, 134: 0-UNSP 104559.
   
-- [5] **Dongdong Zhao**, Shi Yan, Shinya Matsushita, Li Xu*. An approach to multidimensional Fornasini–Marchesini state-space model realization w.r.t. columns of transfer matrices. Systems & Control Letters, 2019, 123:116-123.
+- [5] Zhao Dongdong, Yan Shi, Matsushita Shinya, Xu Li*.  An approach to multidimensional Fornasini–Marchesini state-space model realization w.r.t. columns of transfer matrices. Systems & Control Letters, 2019, 123:116-123.
   
-- [4] **Dongdong Zhao** *, Shi Yan, Shinya Matsushita, Li Xu. Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models. International Journal of Systems Science, 2019, 50:6-74.
+- [4] Zhao Dongdong *; Yan Shi; Matsushita Shinya, Xu Li. Common eigenvector approach to exact order reduction for multidimensional Fornasini-Marchesini state-space models. International Journal of Systems Science, 2019, 50:6-74.
   
-- [3] **Dongdong Zhao** *, Krzysztof Galkowski, Bartlomiej Sulikowski,  Li Xu. 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
+- [3] Zhao Dongdong*; Galkowski Krzysztof, Sulikowski Bartlomiej, Xu Li. 3-D modelling of rectangular circuits as the particular class of spatially interconnected systems on the plane. Multidimensional Systems and Signal Processing, 2019, 30(3): 1583-1608.
   
-- [2] **Dongdong Zhao**, Shi Yan, Li Xu*. Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
+- [2] **Zhao Dongdong**, Yan Shi, Xu Li*. Eigenvalue trim approach to exact order reduction for Roesser state-space model of multidimensional systems. Multidimensional Systems and Signal Processing, 2018, 29(4):1905-1934.
   
-- [1] Shi Yan, **Dongdong Zhao**, Li Xu*, Q. Li. A novel elementary operation approach with Jordan transformation to order reduction for Roesser state-space model. Multidimensional Systems and Signal Processing, 2017, 28(4): 1417-1442.
+- [1] Yan Shi, **Dongdong Zhao**, Xu Li*, Q. Li. A novel elementary operation approach with Jordan transformation to order reduction for Roesser state-space model. Multidimensional Systems and Signal Processing, 2017, 28(4): 1417-1442.
   <br>
 
 ---
