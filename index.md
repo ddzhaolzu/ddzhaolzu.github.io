@@ -29,8 +29,7 @@ layout: page
 ## Working
 
 - October 2019 to October 2025, Associate Professor of School of Information science and Engineering, Lanzhou University
-
--October 2025 to Preresent, Professor of School of Information science and Engineering, Lanzhou University
+- October 2025 to Preresent, Professor of School of Information science and Engineering, Lanzhou University
 
 ## Research Interests
 
@@ -43,10 +42,10 @@ layout: page
 ---
 ## Journal/Conference Appointments
 
--2025 - Present Young Editorial Board Member of  IET Cyber-Systems and Robotics
--2024 - Present Young Editorial Board Member of  Metaverse
--2024 – Present Member of the program committee on IEEE International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE)  
--2023 – present Member of the program committee on IEEE International Conference on Progress in Informatics and Computing
+- 2025 - Present Young Editorial Board Member of  IET Cyber-Systems and Robotics
+- 2024 - Present Young Editorial Board Member of  Metaverse
+- 2024 – Present Member of the program committee on IEEE International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE)  
+- 2023 – present Member of the program committee on IEEE International Conference on Progress in Informatics and Computing
 
 ---
 ## Invited Speech 
