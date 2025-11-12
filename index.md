@@ -1,5 +1,3 @@
-<img width="1665" height="158" alt="image" src="https://github.com/user-attachments/assets/7e34ad9f-f39e-4658-87ee-8a98fc6933d6" />---
-layout: page
 ---
 
 # About Me
