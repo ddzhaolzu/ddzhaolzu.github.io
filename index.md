@@ -1,7 +1,8 @@
 ---
+layout: page
+---
 
 # About Me
----
 
 - **Name**: Zhao Dongdong（赵东东）.
 - **Professional title**: Professor and Supervisor.
