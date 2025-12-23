@@ -9,18 +9,21 @@ title: Publications
 
 
 ## Journal Papers
-- [24]  **Zhao Dongdong**, Yan Lei, Yu Kang, Yun-Bo Zhao, Shi Yan*, Constrained Common Invariant Subspace to Descriptor Multi-Affine Representation of Rational Parameter Systems. *IEEE Transactions on Automatic Control*. 2025, DOI:10.1109/TAC.2025.3629506.
+- [25] Dongdong Zhao, He Li, Jinhua She, Shi Yan. Online Data-Driven Koopman Model Predictive Control for Unknown Robotic Systems. IEEE Transactions on Industrial Electronics[J]. 2026. (Accept)
+- 
+- [24]  **Zhao Dongdong**, Yan Lei, Yu Kang, Yun-Bo Zhao, Shi Yan*, Constrained Common Invariant Subspace to Descriptor Multi-Affine Representation of Rational Parameter Systems. *IEEE Transactions on Automatic Control*. 2025, 10.1109/TAC.2025.3629506. https://ieeexplore.ieee.org/document/11230095.
 
-- [23] **Zhao Dongdong**, Zheng Xiuyun, Li Qiaoqiao, Lu Fuxiang, Yan Shi*. Multi-Stream Longtail Graph Convolutional Network for Human Action Recognition. *IEEE Transactions on Consumer Electronics*. 2025, DOI:10.1109/TCE.2025.3619127.
+- [23]  **Zhao Dongdong**,  Li Mingjie, She Jinhua, Yan Shi*. Data-Driven Linear Parameter-Varying Model Predictive Control for Unknown Nonlinear Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3608048. https://ieeexplore.ieee.org/author/37085434115.
 
 
-- [22]  **Zhao Dongdong**,  Li Mingjie, She Jinhua, Yan Shi*. Data-Driven Linear Parameter-Varying Model Predictive Control for Unknown Nonlinear Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3608048
-.
+- [22]  **Zhao Dongdong**,  Li Wei, She Jinhua, Xu Li, Yan Shi*. Kolmogorov-Arnold Transformer Koopman Modeling Approach to Unknown Nonlinear Robotic Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3603060. DOI:10.1109/TIE.2025.3603060. https://ieeexplore.ieee.org/document/11185236.
 
-- [21]  **Zhao Dongdong**,  Li Wei, She Jinhua, Xu Li, Yan Shi*. Kolmogorov-Arnold Transformer Koopman Modeling Approach to Unknown Nonlinear Robotic Systems. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3603060. https://ieeexplore.ieee.org/document/11185236
+  
+- [21]  **Zhao Dongdong**,  Feng Min, Xian Wenjing, Qin Jiahu, She Jinhua, Yan Shi*.  Linear Quadratic Control of Unknown Nonlinear Systems Using Model-Free Reinforcement Learning. *IEEE Transactions on Industrial Electronics*. 2025, 72(12): 13751–13762. DOI:10.1109/TIE.2025.3581264, 2025. https://ieeexplore.ieee.org/document/11095887.
 
-- [20]  **Zhao Dongdong**,  Feng Min, Xian Wenjing, Qin Jiahu, She Jinhua, Yan Shi*.  Linear Quadratic Control of Unknown Nonlinear Systems Using Model-Free Reinforcement Learning. *IEEE Transactions on Industrial Electronics*. 2025, DOI:10.1109/TIE.2025.3581264, 2025.
 
+- [20] **Zhao Dongdong**, Zheng Xiuyun, Li Qiaoqiao, Lu Fuxiang, Yan Shi*. Multi-Stream Longtail Graph Convolutional Network for Human Action Recognition. *IEEE Transactions on Consumer Electronics*. 2025, 2025,71(4):9732 – 9744. DOI:10.1109/TCE.2025.3619127. https://ieeexplore.ieee.org/document/11196962.
+- 
 - [19] **Zhao Dongdong**, Kang Yu, Zhao Yun-Bo, Xu Li, Yan Shi*,  Constrained Common Invariant Subspace and Its Application, IEEE Transactions on Automatic Control, 2024, 69(10): 6821-6835. https://ieeexplore.ieee.org/abstract/document/10475515.
   
 - [18] **Zhao Dongdong**, Li Boyu, Lu Fuxiang, She Jinhua, Yan Shi*.  Deep Bilinear Koopman Model Predictive Control for Nonlinear Dynamical Systems. IEEE Transactions on Industrial Electronics.  2024,  71(12):16077-16086. https://ieeexplore.ieee.org/abstract/document/10527398.
