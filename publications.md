@@ -10,7 +10,7 @@ title: Publications
 
 ## Journal Papers
 
-- [25] **Zhao Dongdong**, He Li, Jinhua She, Shi Yan. Online Data-Driven Koopman Model Predictive Control for Unknown Robotic Systems. IEEE Transactions on Industrial Electronics[J]. 2026. (Accept)
+- [25] **Zhao Dongdong**, He Li, Jinhua She, Shi Yan. Online Data-Driven Koopman Model Predictive Control for Unknown Robotic Systems. IEEE Transactions on Industrial Electronics[J]. 2026. https://ieeexplore.ieee.org/document/11353072
   
 - [24]  **Zhao Dongdong**, Yan Lei, Yu Kang, Yun-Bo Zhao, Shi Yan*, Constrained Common Invariant Subspace to Descriptor Multi-Affine Representation of Rational Parameter Systems. *IEEE Transactions on Automatic Control*. 2025, 10.1109/TAC.2025.3629506. https://ieeexplore.ieee.org/document/11230095.
 
